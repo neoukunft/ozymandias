@@ -8,7 +8,7 @@ Demais dúvidas:
 * [Referências para usar e abusar gratuitamente](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
 
 
-> Copie o texto abaixo no seu README.md
+> Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
 
 ---
 
