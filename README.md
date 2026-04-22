@@ -45,7 +45,7 @@ Desenvolver uma landing page seguindo boas práticas de:
 ## 📁 Estrutura
 
 ```
-landing-page-clone/
+landing-page-[nome-da-sua-preferencia]/
 │
 ├── index.html
 ├── README.md
