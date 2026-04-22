@@ -1,6 +1,6 @@
 # Landing Page Clone
 
-Projeto simples com foco em aprender **HTML + CSS na prática**, reproduzindo uma [landing page a partir de um template do Figma.](https://github.com/neoukunft/ozymandias/blob/main/guide-landpage.md)
+Projeto simples com foco em aprender **HTML + CSS na prática**, reproduzindo uma [landing page a partir de um template do Figma.](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md))
 
 ## Objetivo
 
