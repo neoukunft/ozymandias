@@ -4,7 +4,7 @@ A proposta não é criar algo original, mas **copiar fielmente um layout existen
 
 ## Regra de ouro pra iniciante
 
-Se ele fizer isso aqui, já tá acima de 90% dos iniciantes:
+Se fizer isso aqui, já está acima de 90% dos iniciantes:
 
 - NÃO usar `div` pra tudo → usar `section`, `header`, `main`
 - NÃO usar CSS inline
