@@ -1,6 +1,8 @@
 # Escopo
 
-A proposta não é criar algo original, mas **copiar fielmente um layout existente**, entendendo como ele foi construído. [Link de referencias](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
+A proposta não é criar algo original, mas **copiar fielmente um layout existente**, entendendo como ele foi construído. 
+
+[Link de referencias](https://github.com/neoukunft/ozymandias/blob/main/references-landing-pages.md)
 
 ## Regra de ouro pra iniciante
 
