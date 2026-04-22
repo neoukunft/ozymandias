@@ -173,5 +173,5 @@ Links:
 ### PASSO 6 — Publicar
 
 - Subir no GitHub
-- Ativar GitHub Pages
+- [Ativar GitHub Pages](https://docs.github.com/pt/pages/quickstart)
 - Validar no navegador real
