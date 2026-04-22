@@ -1,6 +1,6 @@
 # Landing Page Clone
 
-Projeto simples com foco em aprender **HTML + CSS na prática**, reproduzindo uma landing page a partir de um template do Figma.
+Projeto simples com foco em aprender **HTML + CSS na prática**, reproduzindo uma [landing page a partir de um template do Figma.](https://github.com/neoukunft/ozymandias/blob/main/guide-landpage.md)
 
 ## Objetivo
 
@@ -14,6 +14,15 @@ Treinar:
 ## Escopo
 
 A proposta não é criar algo original, mas **copiar fielmente um layout existente**, entendendo como ele foi construído.
+
+## Regra de ouro pra iniciante
+
+Se ele fizer isso aqui, já tá acima de 90% dos iniciantes:
+
+- NÃO usar `div` pra tudo → usar `section`, `header`, `main`
+- NÃO usar CSS inline
+- NÃO misturar responsabilidade (HTML ≠ CSS)
+- Nomear classes direito (`hero-title`, não `text1`)
 
 ## Etapas
 
@@ -44,7 +53,7 @@ A proposta não é criar algo original, mas **copiar fielmente um layout existen
 Usa isso aqui sem inventar moda:
 
 ```
-landing-page-clone/
+landing-page-[algum-nome-aqui]/
 │
 ├── index.html
 ├── README.md
@@ -119,7 +128,9 @@ landing-page-clone/
     - features
     - footer
 
-### PASSO 2 — Reset + Variáveis
+### PASSO 2 — Reset + Estilo
+
+**Dica extra: Antes de começar, te indico ler esse site que explica [as diferenças e composição de Grid e Flex para Layout](https://dev.to/codecasts/grid-para-layout-flexbox-para-componentes-gb3)**
 
 - Importa no HTML:
 ```
@@ -132,7 +143,6 @@ landing-page-clone/
 2. Em responsive.css, criar as classes de [Grid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) e [Flex](https://origamid.com/projetos/flexbox-guia-completo/) Containers
 3. O style.css será os demais estilos do projeto
 
-Dica extra: Antes de começar, te indico ler esse site que explica [as diferenças e composição de Grid e Flex para Layout](https://dev.to/codecasts/grid-para-layout-flexbox-para-componentes-gb3)
 
 ### PASSO 3 — Estilo base
 
@@ -178,14 +188,3 @@ Links:
 - Subir no GitHub
 - Ativar GitHub Pages
 - Validar no navegador real
-
----
-
-## 5. Regra de ouro pra iniciante
-
-Se ele fizer isso aqui, já tá acima de 90% dos iniciantes:
-
-- NÃO usar `div` pra tudo → usar `section`, `header`, `main`
-- NÃO usar CSS inline
-- NÃO misturar responsabilidade (HTML ≠ CSS)
-- Nomear classes direito (`hero-title`, não `text1`)
