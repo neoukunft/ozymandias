@@ -7,6 +7,8 @@ Demais dúvidas:
 * [Guia para começar e estruturar](docs/guide-landpage.md)
 * [Referências para usar e abusar gratuitamente](docs/references-landing-pages.md)
 
+> Foco não é perfeição visual. Foco é entender como construir.
+
 ## 🎯 Como usar este repositório
 
 Você pode baixar este repositório como um arquivo ZIP e usar a pasta `landing-page-example` como base para criar sua própria landing page, ou você pode seguir os guias da pasta `docs/` para construir a sua estrutura do zero!
@@ -130,7 +132,3 @@ Uma landing page:
 * Responsiva
 * Organizada
 * Próxima do template original
-
----
-
-> Foco não é perfeição visual. Foco é entender como construir.
