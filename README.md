@@ -44,6 +44,17 @@ Demais dúvidas:
 
 ---
 
+## 🧠 Resultado esperado
+
+Uma landing page:
+
+* Funcional
+* Responsiva
+* Organizada
+* Próxima do template original
+  
+---
+
 ## 🎯 Como usar este repositório
 
 Você pode baixar este repositório como um arquivo ZIP e usar a pasta `landing-page-example` como base para criar sua própria landing page, ou você pode seguir os guias da pasta `docs/` para construir a sua estrutura do zero!
@@ -63,18 +74,7 @@ Para ter a melhor experiência ao desenvolver sua landing page e ver suas altera
 
 ## 🌐 Deploy
 
-Publicar usando GitHub Pages.
-
----
-
-## 🧠 Resultado esperado
-
-Uma landing page:
-
-* Funcional
-* Responsiva
-* Organizada
-* Próxima do template original
+👉 [Publique usando GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site)
   
 ---
 > 👇 Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
