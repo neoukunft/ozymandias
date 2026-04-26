@@ -30,7 +30,7 @@ Uma landing page:
 * Responsiva
 * Organizada
 * Próxima do template original
-* 
+  
 ---
 > Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
 ---
