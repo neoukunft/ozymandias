@@ -22,6 +22,17 @@ Para ter a melhor experiência ao desenvolver sua landing page e ver suas altera
   ```bash
   npx live-server
   ```
+## 📏 Regras
+
+* ❌ Não usar frameworks (Bootstrap, Tailwind, etc.)
+* ❌ Não usar CSS inline
+* ✅ Nomear classes de forma clara
+* ✅ Separar HTML e CSS corretamente
+
+## 🌐 Deploy
+
+Publicar usando GitHub Pages.
+
 ## 🧠 Resultado esperado
 
 Uma landing page:
@@ -114,18 +125,3 @@ landing-page-[nome-da-sua-preferencia]/
 
 * Meta tags no `<head>`
 * Hierarquia de headings (`h1`, `h2`, `h3`)
-
----
-
-## 📏 Regras
-
-* ❌ Não usar frameworks (Bootstrap, Tailwind, etc.)
-* ❌ Não usar CSS inline
-* ✅ Nomear classes de forma clara
-* ✅ Separar HTML e CSS corretamente
-
----
-
-## 🌐 Deploy
-
-Publicado usando GitHub Pages.
