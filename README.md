@@ -1,4 +1,4 @@
-# Guide Base
+# Seja Bem-vindo!
 
 > 🎯 O objetivo não é perfeição visual. O foco é entender como construir.
 
