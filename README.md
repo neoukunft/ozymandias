@@ -22,7 +22,15 @@ Para ter a melhor experiência ao desenvolver sua landing page e ver suas altera
   ```bash
   npx live-server
   ```
+## 🧠 Resultado esperado
 
+Uma landing page:
+
+* Funcional
+* Responsiva
+* Organizada
+* Próxima do template original
+* 
 ---
 > Copie o texto abaixo, faça as devidas alterações e cole no seu README.md
 ---
@@ -120,15 +128,4 @@ landing-page-[nome-da-sua-preferencia]/
 
 ## 🌐 Deploy
 
-Publicar usando GitHub Pages.
-
----
-
-## 🧠 Resultado esperado
-
-Uma landing page:
-
-* Funcional
-* Responsiva
-* Organizada
-* Próxima do template original
+Publicado usando GitHub Pages.
