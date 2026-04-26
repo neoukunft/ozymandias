@@ -9,6 +9,7 @@ Demais dúvidas:
 * [Guia para começar e estruturar](docs/guide-landpage.md)
 * [Referências para usar e abusar gratuitamente](docs/references-landing-pages.md)
 
+---
 
 ## 📏 Regras
 
